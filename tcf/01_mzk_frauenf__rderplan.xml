@@ -1,0 +1,742 @@
+<?xml version="1.0" encoding="UTF-8"?><D-Spin xmlns="http://www.dspin.de/data" version="0.4">
+  <MetaData xmlns="http://www.dspin.de/data/metadata"><Services><cmd:CMD xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:cmd="http://www.clarin.eu/cmd/" CMDVersion="1.1" xsi:schemaLocation="http://www.clarin.eu/cmd/ http://catalog.clarin.eu/ds/ComponentRegistry/rest/registry/profiles/clarin.eu:cr1:p_1320657629623/xsd"><cmd:Resources><cmd:ResourceProxyList></cmd:ResourceProxyList><cmd:JournalFileProxyList></cmd:JournalFileProxyList><cmd:ResourceRelationList></cmd:ResourceRelationList></cmd:Resources><cmd:Components><cmd:WebServiceToolChain><cmd:GeneralInfo><cmd:Descriptions><cmd:Description></cmd:Description></cmd:Descriptions><cmd:ResourceName>Custom chain</cmd:ResourceName><cmd:ResourceClass>Toolchain</cmd:ResourceClass></cmd:GeneralInfo><cmd:Toolchain><cmd:ToolInChain><cmd:PID>http://hdl.handle.net/11858/00-1778-0000-0004-BA56-7</cmd:PID><cmd:Parameter value="de" name="lang"></cmd:Parameter><cmd:Parameter value="text/plain" name="type"></cmd:Parameter></cmd:ToolInChain><cmd:ToolInChain><cmd:PID>http://hdl.handle.net/11858/00-203C-0000-0024-758A-8</cmd:PID></cmd:ToolInChain><cmd:ToolInChain><cmd:PID>http://hdl.handle.net/11022/1007-0000-0000-8E22-A</cmd:PID><cmd:Parameter value="de" name="lang"></cmd:Parameter></cmd:ToolInChain></cmd:Toolchain></cmd:WebServiceToolChain></cmd:Components></cmd:CMD></Services></MetaData>
+  <TextCorpus xmlns="http://www.dspin.de/data/textcorpus" lang="de">
+    <text>Senatsverwaltung für Wirtschaft, Technologie und Forschung I A 13 9(0)13-7454 An das Abgeordnetenhaus von Berlin über Senatskanzlei - G Sen - M i t t e i l u n g - zur Kenntnisnahme - über Frauenförderplan Beschluss des Abgeordnetenhauses zum Haushaltsplan Drucksache Nr. 17/1400 (II.A.13) - Schlussbericht - ----------------------------------------------------------------------------------------------------------------- Die Senatsverwaltung für Wirtschaft, Technologie und Forschung legt nachstehende Mitteilung dem Abgeordnetenhaus zur Besprechung vor: Das Abgeordnetenhaus hat in seiner Sitzung am 12.12.2013 Folgendes beschlossen: Alle Senatsverwaltungen werden aufgefordert, den jeweils geltenden Frauenförderplan vorzulegen und nachzuweisen, inwieweit die Zielvorgaben der Förderpläne durch Personalmaßnahmen in den Haushaltsjahren 2014/2015 erreicht wurden. Abweichungen von den Förderplänen sind zu begründen. Hierzu wird berichtet: Es ist ein aktueller Frauenförderplan für den Zeitraum von August 2013 Juli 2019 mit Zielvorgaben im 2-Jahres-Rhythmus gefertigt (s. Anlage). Die jeweilige Erreichung wird mit den 2-jährlichen Anpassungen kontrolliert. Die Zielvorgaben des letzten Erhebungszeitraumes von August 2011 September 2013 wurden nahezu erfüllt (5 von 7). Eine Übersicht mit den Begründungen ist auf den Seiten 27 und 28 dargestellt. Positiv ist die Gesamtentwicklung der letzten 10 Jahre: Die Anzahl der Unterrepräsentanzen wurden von 12 auf 6 verringert (s. separate Anlage). Berlin, den 29. April 2014 Cornelia Y z e r ........................ Senatorin für Wirtschaft, Technologie und Forschung</text>
+    <tc:tokens xmlns:tc="http://www.dspin.de/data/textcorpus">
+      <tc:token ID="w1">Senatsverwaltung</tc:token>
+      <tc:token ID="w2">für</tc:token>
+      <tc:token ID="w3">Wirtschaft</tc:token>
+      <tc:token ID="w4">,</tc:token>
+      <tc:token ID="w5">Technologie</tc:token>
+      <tc:token ID="w6">und</tc:token>
+      <tc:token ID="w7">Forschung</tc:token>
+      <tc:token ID="w8">I</tc:token>
+      <tc:token ID="w9">A</tc:token>
+      <tc:token ID="wa">13</tc:token>
+      <tc:token ID="wb">9(0</tc:token>
+      <tc:token ID="wc">)13-7454</tc:token>
+      <tc:token ID="wd">An</tc:token>
+      <tc:token ID="we">das</tc:token>
+      <tc:token ID="wf">Abgeordnetenhaus</tc:token>
+      <tc:token ID="w10">von</tc:token>
+      <tc:token ID="w11">Berlin</tc:token>
+      <tc:token ID="w12">über</tc:token>
+      <tc:token ID="w13">Senatskanzlei</tc:token>
+      <tc:token ID="w14">-</tc:token>
+      <tc:token ID="w15">G</tc:token>
+      <tc:token ID="w16">Sen</tc:token>
+      <tc:token ID="w17">-</tc:token>
+      <tc:token ID="w18">M</tc:token>
+      <tc:token ID="w19">i</tc:token>
+      <tc:token ID="w1a">t</tc:token>
+      <tc:token ID="w1b">t</tc:token>
+      <tc:token ID="w1c">e</tc:token>
+      <tc:token ID="w1d">i</tc:token>
+      <tc:token ID="w1e">l</tc:token>
+      <tc:token ID="w1f">u</tc:token>
+      <tc:token ID="w20">n</tc:token>
+      <tc:token ID="w21">g</tc:token>
+      <tc:token ID="w22">-</tc:token>
+      <tc:token ID="w23">zur</tc:token>
+      <tc:token ID="w24">Kenntnisnahme</tc:token>
+      <tc:token ID="w25">-</tc:token>
+      <tc:token ID="w26">über</tc:token>
+      <tc:token ID="w27">Frauenförderplan</tc:token>
+      <tc:token ID="w28">Beschluss</tc:token>
+      <tc:token ID="w29">des</tc:token>
+      <tc:token ID="w2a">Abgeordnetenhauses</tc:token>
+      <tc:token ID="w2b">zum</tc:token>
+      <tc:token ID="w2c">Haushaltsplan</tc:token>
+      <tc:token ID="w2d">Drucksache</tc:token>
+      <tc:token ID="w2e">Nr.</tc:token>
+      <tc:token ID="w2f">17/1400</tc:token>
+      <tc:token ID="w30">(</tc:token>
+      <tc:token ID="w31">II.A.13</tc:token>
+      <tc:token ID="w32">)</tc:token>
+      <tc:token ID="w33">-</tc:token>
+      <tc:token ID="w34">Schlussbericht</tc:token>
+      <tc:token ID="w35">-</tc:token>
+      <tc:token ID="w36">-----------------------------------------------------------------------------------------------------------------</tc:token>
+      <tc:token ID="w37">Die</tc:token>
+      <tc:token ID="w38">Senatsverwaltung</tc:token>
+      <tc:token ID="w39">für</tc:token>
+      <tc:token ID="w3a">Wirtschaft</tc:token>
+      <tc:token ID="w3b">,</tc:token>
+      <tc:token ID="w3c">Technologie</tc:token>
+      <tc:token ID="w3d">und</tc:token>
+      <tc:token ID="w3e">Forschung</tc:token>
+      <tc:token ID="w3f">legt</tc:token>
+      <tc:token ID="w40">nachstehende</tc:token>
+      <tc:token ID="w41">Mitteilung</tc:token>
+      <tc:token ID="w42">dem</tc:token>
+      <tc:token ID="w43">Abgeordnetenhaus</tc:token>
+      <tc:token ID="w44">zur</tc:token>
+      <tc:token ID="w45">Besprechung</tc:token>
+      <tc:token ID="w46">vor</tc:token>
+      <tc:token ID="w47">:</tc:token>
+      <tc:token ID="w48">Das</tc:token>
+      <tc:token ID="w49">Abgeordnetenhaus</tc:token>
+      <tc:token ID="w4a">hat</tc:token>
+      <tc:token ID="w4b">in</tc:token>
+      <tc:token ID="w4c">seiner</tc:token>
+      <tc:token ID="w4d">Sitzung</tc:token>
+      <tc:token ID="w4e">am</tc:token>
+      <tc:token ID="w4f">12.</tc:token>
+      <tc:token ID="w50">12.</tc:token>
+      <tc:token ID="w51">2013</tc:token>
+      <tc:token ID="w52">Folgendes</tc:token>
+      <tc:token ID="w53">beschlossen</tc:token>
+      <tc:token ID="w54">:</tc:token>
+      <tc:token ID="w55">Alle</tc:token>
+      <tc:token ID="w56">Senatsverwaltungen</tc:token>
+      <tc:token ID="w57">werden</tc:token>
+      <tc:token ID="w58">aufgefordert</tc:token>
+      <tc:token ID="w59">,</tc:token>
+      <tc:token ID="w5a">den</tc:token>
+      <tc:token ID="w5b">jeweils</tc:token>
+      <tc:token ID="w5c">geltenden</tc:token>
+      <tc:token ID="w5d">Frauenförderplan</tc:token>
+      <tc:token ID="w5e">vorzulegen</tc:token>
+      <tc:token ID="w5f">und</tc:token>
+      <tc:token ID="w60">nachzuweisen</tc:token>
+      <tc:token ID="w61">,</tc:token>
+      <tc:token ID="w62">inwieweit</tc:token>
+      <tc:token ID="w63">die</tc:token>
+      <tc:token ID="w64">Zielvorgaben</tc:token>
+      <tc:token ID="w65">der</tc:token>
+      <tc:token ID="w66">Förderpläne</tc:token>
+      <tc:token ID="w67">durch</tc:token>
+      <tc:token ID="w68">Personalmaßnahmen</tc:token>
+      <tc:token ID="w69">in</tc:token>
+      <tc:token ID="w6a">den</tc:token>
+      <tc:token ID="w6b">Haushaltsjahren</tc:token>
+      <tc:token ID="w6c">2014/2015</tc:token>
+      <tc:token ID="w6d">erreicht</tc:token>
+      <tc:token ID="w6e">wurden</tc:token>
+      <tc:token ID="w6f">.</tc:token>
+      <tc:token ID="w70">Abweichungen</tc:token>
+      <tc:token ID="w71">von</tc:token>
+      <tc:token ID="w72">den</tc:token>
+      <tc:token ID="w73">Förderplänen</tc:token>
+      <tc:token ID="w74">sind</tc:token>
+      <tc:token ID="w75">zu</tc:token>
+      <tc:token ID="w76">begründen</tc:token>
+      <tc:token ID="w77">.</tc:token>
+      <tc:token ID="w78">Hierzu</tc:token>
+      <tc:token ID="w79">wird</tc:token>
+      <tc:token ID="w7a">berichtet</tc:token>
+      <tc:token ID="w7b">:</tc:token>
+      <tc:token ID="w7c">Es</tc:token>
+      <tc:token ID="w7d">ist</tc:token>
+      <tc:token ID="w7e">ein</tc:token>
+      <tc:token ID="w7f">aktueller</tc:token>
+      <tc:token ID="w80">Frauenförderplan</tc:token>
+      <tc:token ID="w81">für</tc:token>
+      <tc:token ID="w82">den</tc:token>
+      <tc:token ID="w83">Zeitraum</tc:token>
+      <tc:token ID="w84">von</tc:token>
+      <tc:token ID="w85">August</tc:token>
+      <tc:token ID="w86">2013</tc:token>
+      <tc:token ID="w87">Juli</tc:token>
+      <tc:token ID="w88">2019</tc:token>
+      <tc:token ID="w89">mit</tc:token>
+      <tc:token ID="w8a">Zielvorgaben</tc:token>
+      <tc:token ID="w8b">im</tc:token>
+      <tc:token ID="w8c">2-Jahres-Rhythmus</tc:token>
+      <tc:token ID="w8d">gefertigt</tc:token>
+      <tc:token ID="w8e">(</tc:token>
+      <tc:token ID="w8f">s.</tc:token>
+      <tc:token ID="w90">Anlage</tc:token>
+      <tc:token ID="w91">)</tc:token>
+      <tc:token ID="w92">.</tc:token>
+      <tc:token ID="w93">Die</tc:token>
+      <tc:token ID="w94">jeweilige</tc:token>
+      <tc:token ID="w95">Erreichung</tc:token>
+      <tc:token ID="w96">wird</tc:token>
+      <tc:token ID="w97">mit</tc:token>
+      <tc:token ID="w98">den</tc:token>
+      <tc:token ID="w99">2-jährlichen</tc:token>
+      <tc:token ID="w9a">Anpassungen</tc:token>
+      <tc:token ID="w9b">kontrolliert</tc:token>
+      <tc:token ID="w9c">.</tc:token>
+      <tc:token ID="w9d">Die</tc:token>
+      <tc:token ID="w9e">Zielvorgaben</tc:token>
+      <tc:token ID="w9f">des</tc:token>
+      <tc:token ID="wa0">letzten</tc:token>
+      <tc:token ID="wa1">Erhebungszeitraumes</tc:token>
+      <tc:token ID="wa2">von</tc:token>
+      <tc:token ID="wa3">August</tc:token>
+      <tc:token ID="wa4">2011</tc:token>
+      <tc:token ID="wa5">September</tc:token>
+      <tc:token ID="wa6">2013</tc:token>
+      <tc:token ID="wa7">wurden</tc:token>
+      <tc:token ID="wa8">nahezu</tc:token>
+      <tc:token ID="wa9">erfüllt</tc:token>
+      <tc:token ID="waa">(5</tc:token>
+      <tc:token ID="wab">von</tc:token>
+      <tc:token ID="wac">7</tc:token>
+      <tc:token ID="wad">)</tc:token>
+      <tc:token ID="wae">.</tc:token>
+      <tc:token ID="waf">Eine</tc:token>
+      <tc:token ID="wb0">Übersicht</tc:token>
+      <tc:token ID="wb1">mit</tc:token>
+      <tc:token ID="wb2">den</tc:token>
+      <tc:token ID="wb3">Begründungen</tc:token>
+      <tc:token ID="wb4">ist</tc:token>
+      <tc:token ID="wb5">auf</tc:token>
+      <tc:token ID="wb6">den</tc:token>
+      <tc:token ID="wb7">Seiten</tc:token>
+      <tc:token ID="wb8">27</tc:token>
+      <tc:token ID="wb9">und</tc:token>
+      <tc:token ID="wba">28</tc:token>
+      <tc:token ID="wbb">dargestellt</tc:token>
+      <tc:token ID="wbc">.</tc:token>
+      <tc:token ID="wbd">Positiv</tc:token>
+      <tc:token ID="wbe">ist</tc:token>
+      <tc:token ID="wbf">die</tc:token>
+      <tc:token ID="wc0">Gesamtentwicklung</tc:token>
+      <tc:token ID="wc1">der</tc:token>
+      <tc:token ID="wc2">letzten</tc:token>
+      <tc:token ID="wc3">10</tc:token>
+      <tc:token ID="wc4">Jahre</tc:token>
+      <tc:token ID="wc5">:</tc:token>
+      <tc:token ID="wc6">Die</tc:token>
+      <tc:token ID="wc7">Anzahl</tc:token>
+      <tc:token ID="wc8">der</tc:token>
+      <tc:token ID="wc9">Unterrepräsentanzen</tc:token>
+      <tc:token ID="wca">wurden</tc:token>
+      <tc:token ID="wcb">von</tc:token>
+      <tc:token ID="wcc">12</tc:token>
+      <tc:token ID="wcd">auf</tc:token>
+      <tc:token ID="wce">6</tc:token>
+      <tc:token ID="wcf">verringert</tc:token>
+      <tc:token ID="wd0">(</tc:token>
+      <tc:token ID="wd1">s.</tc:token>
+      <tc:token ID="wd2">separate</tc:token>
+      <tc:token ID="wd3">Anlage</tc:token>
+      <tc:token ID="wd4">)</tc:token>
+      <tc:token ID="wd5">.</tc:token>
+      <tc:token ID="wd6">Berlin</tc:token>
+      <tc:token ID="wd7">,</tc:token>
+      <tc:token ID="wd8">den</tc:token>
+      <tc:token ID="wd9">29.</tc:token>
+      <tc:token ID="wda">April</tc:token>
+      <tc:token ID="wdb">2014</tc:token>
+      <tc:token ID="wdc">Cornelia</tc:token>
+      <tc:token ID="wdd">Y</tc:token>
+      <tc:token ID="wde">z</tc:token>
+      <tc:token ID="wdf">e</tc:token>
+      <tc:token ID="we0">r</tc:token>
+      <tc:token ID="we1">...</tc:token>
+      <tc:token ID="we2">...</tc:token>
+      <tc:token ID="we3">...</tc:token>
+      <tc:token ID="we4">...</tc:token>
+      <tc:token ID="we5">...</tc:token>
+      <tc:token ID="we6">...</tc:token>
+      <tc:token ID="we7">......</tc:token>
+      <tc:token ID="we8">Senatorin</tc:token>
+      <tc:token ID="we9">für</tc:token>
+      <tc:token ID="wea">Wirtschaft</tc:token>
+      <tc:token ID="web">,</tc:token>
+      <tc:token ID="wec">Technologie</tc:token>
+      <tc:token ID="wed">und</tc:token>
+      <tc:token ID="wee">Forschung</tc:token>
+    </tc:tokens>
+    <sentences>
+      <sentence ID="s1" tokenIDs="w1 w2 w3 w4 w5 w6 w7 w8 w9 wa wb wc wd we wf w10 w11 w12 w13 w14 w15 w16 w17 w18 w19 w1a w1b w1c w1d w1e w1f w20 w21 w22 w23 w24 w25 w26 w27 w28 w29 w2a w2b w2c w2d w2e w2f w30 w31 w32 w33"></sentence>
+      <sentence ID="s2" tokenIDs="w34 w35 w36 w37 w38 w39 w3a w3b w3c w3d w3e w3f w40 w41 w42 w43 w44 w45 w46 w47"></sentence>
+      <sentence ID="s3" tokenIDs="w48 w49 w4a w4b w4c w4d w4e w4f w50 w51 w52 w53 w54"></sentence>
+      <sentence ID="s4" tokenIDs="w55 w56 w57 w58 w59 w5a w5b w5c w5d w5e w5f w60 w61 w62 w63 w64 w65 w66 w67 w68 w69 w6a w6b w6c w6d w6e w6f"></sentence>
+      <sentence ID="s5" tokenIDs="w70 w71 w72 w73 w74 w75 w76 w77"></sentence>
+      <sentence ID="s6" tokenIDs="w78 w79 w7a w7b"></sentence>
+      <sentence ID="s7" tokenIDs="w7c w7d w7e w7f w80 w81 w82 w83 w84 w85 w86 w87 w88 w89 w8a w8b w8c w8d w8e w8f w90 w91 w92"></sentence>
+      <sentence ID="s8" tokenIDs="w93 w94 w95 w96 w97 w98 w99 w9a w9b w9c"></sentence>
+      <sentence ID="s9" tokenIDs="w9d w9e w9f wa0 wa1 wa2 wa3 wa4 wa5 wa6 wa7 wa8 wa9 waa wab wac wad wae"></sentence>
+      <sentence ID="sa" tokenIDs="waf wb0 wb1 wb2 wb3 wb4 wb5 wb6 wb7 wb8 wb9 wba wbb wbc"></sentence>
+      <sentence ID="sb" tokenIDs="wbd wbe wbf wc0 wc1 wc2 wc3 wc4 wc5"></sentence>
+      <sentence ID="sc" tokenIDs="wc6 wc7 wc8 wc9 wca wcb wcc wcd wce wcf wd0 wd1 wd2 wd3 wd4 wd5"></sentence>
+      <sentence ID="sd" tokenIDs="wd6 wd7 wd8 wd9 wda wdb wdc wdd wde wdf we0 we1 we2 we3 we4 we5 we6 we7"></sentence>
+      <sentence ID="se" tokenIDs="we8 we9 wea web wec wed wee"></sentence>
+    </sentences>
+    <tc:lemmas xmlns:tc="http://www.dspin.de/data/textcorpus">
+      <tc:lemma ID="l_0" tokenIDs="w1">Senatsverwaltung</tc:lemma>
+      <tc:lemma ID="l_1" tokenIDs="w2">für</tc:lemma>
+      <tc:lemma ID="l_2" tokenIDs="w3">Wirtschaft</tc:lemma>
+      <tc:lemma ID="l_3" tokenIDs="w4">,</tc:lemma>
+      <tc:lemma ID="l_4" tokenIDs="w5">Technologie</tc:lemma>
+      <tc:lemma ID="l_5" tokenIDs="w6">und</tc:lemma>
+      <tc:lemma ID="l_6" tokenIDs="w7">Forschung</tc:lemma>
+      <tc:lemma ID="l_7" tokenIDs="w8">I</tc:lemma>
+      <tc:lemma ID="l_8" tokenIDs="w9">A</tc:lemma>
+      <tc:lemma ID="l_9" tokenIDs="wa">13</tc:lemma>
+      <tc:lemma ID="l_10" tokenIDs="wb">&lt;unknown&gt;</tc:lemma>
+      <tc:lemma ID="l_11" tokenIDs="wc">&lt;unknown&gt;</tc:lemma>
+      <tc:lemma ID="l_12" tokenIDs="wd">an</tc:lemma>
+      <tc:lemma ID="l_13" tokenIDs="we">d</tc:lemma>
+      <tc:lemma ID="l_14" tokenIDs="wf">Abgeordnetenhaus</tc:lemma>
+      <tc:lemma ID="l_15" tokenIDs="w10">von</tc:lemma>
+      <tc:lemma ID="l_16" tokenIDs="w11">Berlin</tc:lemma>
+      <tc:lemma ID="l_17" tokenIDs="w12">über</tc:lemma>
+      <tc:lemma ID="l_18" tokenIDs="w13">Senatskanzlei</tc:lemma>
+      <tc:lemma ID="l_19" tokenIDs="w14">-</tc:lemma>
+      <tc:lemma ID="l_20" tokenIDs="w15">G</tc:lemma>
+      <tc:lemma ID="l_21" tokenIDs="w16">Sen</tc:lemma>
+      <tc:lemma ID="l_22" tokenIDs="w17">-</tc:lemma>
+      <tc:lemma ID="l_23" tokenIDs="w18">M</tc:lemma>
+      <tc:lemma ID="l_24" tokenIDs="w19">&lt;unknown&gt;</tc:lemma>
+      <tc:lemma ID="l_25" tokenIDs="w1a">t</tc:lemma>
+      <tc:lemma ID="l_26" tokenIDs="w1b">t</tc:lemma>
+      <tc:lemma ID="l_27" tokenIDs="w1c">&lt;unknown&gt;</tc:lemma>
+      <tc:lemma ID="l_28" tokenIDs="w1d">&lt;unknown&gt;</tc:lemma>
+      <tc:lemma ID="l_29" tokenIDs="w1e">l</tc:lemma>
+      <tc:lemma ID="l_30" tokenIDs="w1f">&lt;unknown&gt;</tc:lemma>
+      <tc:lemma ID="l_31" tokenIDs="w20">&lt;unknown&gt;</tc:lemma>
+      <tc:lemma ID="l_32" tokenIDs="w21">g</tc:lemma>
+      <tc:lemma ID="l_33" tokenIDs="w22">-</tc:lemma>
+      <tc:lemma ID="l_34" tokenIDs="w23">zur</tc:lemma>
+      <tc:lemma ID="l_35" tokenIDs="w24">Kenntnisnahme</tc:lemma>
+      <tc:lemma ID="l_36" tokenIDs="w25">-</tc:lemma>
+      <tc:lemma ID="l_37" tokenIDs="w26">über</tc:lemma>
+      <tc:lemma ID="l_38" tokenIDs="w27">Frauenförderplan</tc:lemma>
+      <tc:lemma ID="l_39" tokenIDs="w28">Beschluß</tc:lemma>
+      <tc:lemma ID="l_40" tokenIDs="w29">d</tc:lemma>
+      <tc:lemma ID="l_41" tokenIDs="w2a">Abgeordnetenhaus</tc:lemma>
+      <tc:lemma ID="l_42" tokenIDs="w2b">zum</tc:lemma>
+      <tc:lemma ID="l_43" tokenIDs="w2c">Haushaltsplan</tc:lemma>
+      <tc:lemma ID="l_44" tokenIDs="w2d">Drucksache</tc:lemma>
+      <tc:lemma ID="l_45" tokenIDs="w2e">Nr.</tc:lemma>
+      <tc:lemma ID="l_46" tokenIDs="w2f">@card@</tc:lemma>
+      <tc:lemma ID="l_47" tokenIDs="w30">(</tc:lemma>
+      <tc:lemma ID="l_48" tokenIDs="w31">&lt;unknown&gt;</tc:lemma>
+      <tc:lemma ID="l_49" tokenIDs="w32">)</tc:lemma>
+      <tc:lemma ID="l_50" tokenIDs="w33">-</tc:lemma>
+      <tc:lemma ID="l_51" tokenIDs="w34">Schlußbericht</tc:lemma>
+      <tc:lemma ID="l_52" tokenIDs="w35">-</tc:lemma>
+      <tc:lemma ID="l_53" tokenIDs="w36">&lt;unknown&gt;</tc:lemma>
+      <tc:lemma ID="l_54" tokenIDs="w37">d</tc:lemma>
+      <tc:lemma ID="l_55" tokenIDs="w38">Senatsverwaltung</tc:lemma>
+      <tc:lemma ID="l_56" tokenIDs="w39">für</tc:lemma>
+      <tc:lemma ID="l_57" tokenIDs="w3a">Wirtschaft</tc:lemma>
+      <tc:lemma ID="l_58" tokenIDs="w3b">,</tc:lemma>
+      <tc:lemma ID="l_59" tokenIDs="w3c">Technologie</tc:lemma>
+      <tc:lemma ID="l_60" tokenIDs="w3d">und</tc:lemma>
+      <tc:lemma ID="l_61" tokenIDs="w3e">Forschung</tc:lemma>
+      <tc:lemma ID="l_62" tokenIDs="w3f">legen</tc:lemma>
+      <tc:lemma ID="l_63" tokenIDs="w40">nachstehend</tc:lemma>
+      <tc:lemma ID="l_64" tokenIDs="w41">Mitteilung</tc:lemma>
+      <tc:lemma ID="l_65" tokenIDs="w42">d</tc:lemma>
+      <tc:lemma ID="l_66" tokenIDs="w43">Abgeordnetenhaus</tc:lemma>
+      <tc:lemma ID="l_67" tokenIDs="w44">zur</tc:lemma>
+      <tc:lemma ID="l_68" tokenIDs="w45">Besprechung</tc:lemma>
+      <tc:lemma ID="l_69" tokenIDs="w46">vor</tc:lemma>
+      <tc:lemma ID="l_70" tokenIDs="w47">:</tc:lemma>
+      <tc:lemma ID="l_71" tokenIDs="w48">d</tc:lemma>
+      <tc:lemma ID="l_72" tokenIDs="w49">Abgeordnetenhaus</tc:lemma>
+      <tc:lemma ID="l_73" tokenIDs="w4a">haben</tc:lemma>
+      <tc:lemma ID="l_74" tokenIDs="w4b">in</tc:lemma>
+      <tc:lemma ID="l_75" tokenIDs="w4c">sein</tc:lemma>
+      <tc:lemma ID="l_76" tokenIDs="w4d">Sitzung</tc:lemma>
+      <tc:lemma ID="l_77" tokenIDs="w4e">am</tc:lemma>
+      <tc:lemma ID="l_78" tokenIDs="w4f">12.</tc:lemma>
+      <tc:lemma ID="l_79" tokenIDs="w50">12.</tc:lemma>
+      <tc:lemma ID="l_80" tokenIDs="w51">@card@</tc:lemma>
+      <tc:lemma ID="l_81" tokenIDs="w52">Folgende</tc:lemma>
+      <tc:lemma ID="l_82" tokenIDs="w53">beschließen</tc:lemma>
+      <tc:lemma ID="l_83" tokenIDs="w54">:</tc:lemma>
+      <tc:lemma ID="l_84" tokenIDs="w55">alle</tc:lemma>
+      <tc:lemma ID="l_85" tokenIDs="w56">Senatsverwaltung</tc:lemma>
+      <tc:lemma ID="l_86" tokenIDs="w57">werden</tc:lemma>
+      <tc:lemma ID="l_87" tokenIDs="w58">auffordern</tc:lemma>
+      <tc:lemma ID="l_88" tokenIDs="w59">,</tc:lemma>
+      <tc:lemma ID="l_89" tokenIDs="w5a">d</tc:lemma>
+      <tc:lemma ID="l_90" tokenIDs="w5b">jeweils</tc:lemma>
+      <tc:lemma ID="l_91" tokenIDs="w5c">geltend</tc:lemma>
+      <tc:lemma ID="l_92" tokenIDs="w5d">Frauenförderplan</tc:lemma>
+      <tc:lemma ID="l_93" tokenIDs="w5e">vorlegen</tc:lemma>
+      <tc:lemma ID="l_94" tokenIDs="w5f">und</tc:lemma>
+      <tc:lemma ID="l_95" tokenIDs="w60">nachweisen</tc:lemma>
+      <tc:lemma ID="l_96" tokenIDs="w61">,</tc:lemma>
+      <tc:lemma ID="l_97" tokenIDs="w62">inwieweit</tc:lemma>
+      <tc:lemma ID="l_98" tokenIDs="w63">d</tc:lemma>
+      <tc:lemma ID="l_99" tokenIDs="w64">Zielvorgabe</tc:lemma>
+      <tc:lemma ID="l_100" tokenIDs="w65">d</tc:lemma>
+      <tc:lemma ID="l_101" tokenIDs="w66">Förderplan</tc:lemma>
+      <tc:lemma ID="l_102" tokenIDs="w67">durch</tc:lemma>
+      <tc:lemma ID="l_103" tokenIDs="w68">Personalmaßnahme</tc:lemma>
+      <tc:lemma ID="l_104" tokenIDs="w69">in</tc:lemma>
+      <tc:lemma ID="l_105" tokenIDs="w6a">d</tc:lemma>
+      <tc:lemma ID="l_106" tokenIDs="w6b">Haushaltsjahr</tc:lemma>
+      <tc:lemma ID="l_107" tokenIDs="w6c">@card@</tc:lemma>
+      <tc:lemma ID="l_108" tokenIDs="w6d">erreichen</tc:lemma>
+      <tc:lemma ID="l_109" tokenIDs="w6e">werden</tc:lemma>
+      <tc:lemma ID="l_110" tokenIDs="w6f">.</tc:lemma>
+      <tc:lemma ID="l_111" tokenIDs="w70">Abweichung</tc:lemma>
+      <tc:lemma ID="l_112" tokenIDs="w71">von</tc:lemma>
+      <tc:lemma ID="l_113" tokenIDs="w72">d</tc:lemma>
+      <tc:lemma ID="l_114" tokenIDs="w73">Förderplan</tc:lemma>
+      <tc:lemma ID="l_115" tokenIDs="w74">sein</tc:lemma>
+      <tc:lemma ID="l_116" tokenIDs="w75">zu</tc:lemma>
+      <tc:lemma ID="l_117" tokenIDs="w76">begründen</tc:lemma>
+      <tc:lemma ID="l_118" tokenIDs="w77">.</tc:lemma>
+      <tc:lemma ID="l_119" tokenIDs="w78">hierzu</tc:lemma>
+      <tc:lemma ID="l_120" tokenIDs="w79">werden</tc:lemma>
+      <tc:lemma ID="l_121" tokenIDs="w7a">berichten</tc:lemma>
+      <tc:lemma ID="l_122" tokenIDs="w7b">:</tc:lemma>
+      <tc:lemma ID="l_123" tokenIDs="w7c">es</tc:lemma>
+      <tc:lemma ID="l_124" tokenIDs="w7d">sein</tc:lemma>
+      <tc:lemma ID="l_125" tokenIDs="w7e">ein</tc:lemma>
+      <tc:lemma ID="l_126" tokenIDs="w7f">aktuell</tc:lemma>
+      <tc:lemma ID="l_127" tokenIDs="w80">Frauenförderplan</tc:lemma>
+      <tc:lemma ID="l_128" tokenIDs="w81">für</tc:lemma>
+      <tc:lemma ID="l_129" tokenIDs="w82">d</tc:lemma>
+      <tc:lemma ID="l_130" tokenIDs="w83">Zeitraum</tc:lemma>
+      <tc:lemma ID="l_131" tokenIDs="w84">von</tc:lemma>
+      <tc:lemma ID="l_132" tokenIDs="w85">August</tc:lemma>
+      <tc:lemma ID="l_133" tokenIDs="w86">@card@</tc:lemma>
+      <tc:lemma ID="l_134" tokenIDs="w87">Juli</tc:lemma>
+      <tc:lemma ID="l_135" tokenIDs="w88">@card@</tc:lemma>
+      <tc:lemma ID="l_136" tokenIDs="w89">mit</tc:lemma>
+      <tc:lemma ID="l_137" tokenIDs="w8a">Zielvorgabe</tc:lemma>
+      <tc:lemma ID="l_138" tokenIDs="w8b">im</tc:lemma>
+      <tc:lemma ID="l_139" tokenIDs="w8c">&lt;unknown&gt;</tc:lemma>
+      <tc:lemma ID="l_140" tokenIDs="w8d">fertigen</tc:lemma>
+      <tc:lemma ID="l_141" tokenIDs="w8e">(</tc:lemma>
+      <tc:lemma ID="l_142" tokenIDs="w8f">&lt;unknown&gt;</tc:lemma>
+      <tc:lemma ID="l_143" tokenIDs="w90">Anlage</tc:lemma>
+      <tc:lemma ID="l_144" tokenIDs="w91">)</tc:lemma>
+      <tc:lemma ID="l_145" tokenIDs="w92">.</tc:lemma>
+      <tc:lemma ID="l_146" tokenIDs="w93">d</tc:lemma>
+      <tc:lemma ID="l_147" tokenIDs="w94">jeweilig</tc:lemma>
+      <tc:lemma ID="l_148" tokenIDs="w95">Erreichung</tc:lemma>
+      <tc:lemma ID="l_149" tokenIDs="w96">werden</tc:lemma>
+      <tc:lemma ID="l_150" tokenIDs="w97">mit</tc:lemma>
+      <tc:lemma ID="l_151" tokenIDs="w98">d</tc:lemma>
+      <tc:lemma ID="l_152" tokenIDs="w99">&lt;unknown&gt;</tc:lemma>
+      <tc:lemma ID="l_153" tokenIDs="w9a">Anpassung</tc:lemma>
+      <tc:lemma ID="l_154" tokenIDs="w9b">kontrollieren</tc:lemma>
+      <tc:lemma ID="l_155" tokenIDs="w9c">.</tc:lemma>
+      <tc:lemma ID="l_156" tokenIDs="w9d">d</tc:lemma>
+      <tc:lemma ID="l_157" tokenIDs="w9e">Zielvorgabe</tc:lemma>
+      <tc:lemma ID="l_158" tokenIDs="w9f">d</tc:lemma>
+      <tc:lemma ID="l_159" tokenIDs="wa0">letzt</tc:lemma>
+      <tc:lemma ID="l_160" tokenIDs="wa1">&lt;unknown&gt;</tc:lemma>
+      <tc:lemma ID="l_161" tokenIDs="wa2">von</tc:lemma>
+      <tc:lemma ID="l_162" tokenIDs="wa3">August</tc:lemma>
+      <tc:lemma ID="l_163" tokenIDs="wa4">@card@</tc:lemma>
+      <tc:lemma ID="l_164" tokenIDs="wa5">September</tc:lemma>
+      <tc:lemma ID="l_165" tokenIDs="wa6">@card@</tc:lemma>
+      <tc:lemma ID="l_166" tokenIDs="wa7">werden</tc:lemma>
+      <tc:lemma ID="l_167" tokenIDs="wa8">nahezu</tc:lemma>
+      <tc:lemma ID="l_168" tokenIDs="wa9">erfüllt</tc:lemma>
+      <tc:lemma ID="l_169" tokenIDs="waa">&lt;unknown&gt;</tc:lemma>
+      <tc:lemma ID="l_170" tokenIDs="wab">von</tc:lemma>
+      <tc:lemma ID="l_171" tokenIDs="wac">7</tc:lemma>
+      <tc:lemma ID="l_172" tokenIDs="wad">)</tc:lemma>
+      <tc:lemma ID="l_173" tokenIDs="wae">.</tc:lemma>
+      <tc:lemma ID="l_174" tokenIDs="waf">ein</tc:lemma>
+      <tc:lemma ID="l_175" tokenIDs="wb0">Übersicht</tc:lemma>
+      <tc:lemma ID="l_176" tokenIDs="wb1">mit</tc:lemma>
+      <tc:lemma ID="l_177" tokenIDs="wb2">d</tc:lemma>
+      <tc:lemma ID="l_178" tokenIDs="wb3">Begründung</tc:lemma>
+      <tc:lemma ID="l_179" tokenIDs="wb4">sein</tc:lemma>
+      <tc:lemma ID="l_180" tokenIDs="wb5">auf</tc:lemma>
+      <tc:lemma ID="l_181" tokenIDs="wb6">d</tc:lemma>
+      <tc:lemma ID="l_182" tokenIDs="wb7">Seite</tc:lemma>
+      <tc:lemma ID="l_183" tokenIDs="wb8">27</tc:lemma>
+      <tc:lemma ID="l_184" tokenIDs="wb9">und</tc:lemma>
+      <tc:lemma ID="l_185" tokenIDs="wba">28</tc:lemma>
+      <tc:lemma ID="l_186" tokenIDs="wbb">darstellen</tc:lemma>
+      <tc:lemma ID="l_187" tokenIDs="wbc">.</tc:lemma>
+      <tc:lemma ID="l_188" tokenIDs="wbd">positiv</tc:lemma>
+      <tc:lemma ID="l_189" tokenIDs="wbe">sein</tc:lemma>
+      <tc:lemma ID="l_190" tokenIDs="wbf">d</tc:lemma>
+      <tc:lemma ID="l_191" tokenIDs="wc0">Gesamtentwicklung</tc:lemma>
+      <tc:lemma ID="l_192" tokenIDs="wc1">d</tc:lemma>
+      <tc:lemma ID="l_193" tokenIDs="wc2">letzt</tc:lemma>
+      <tc:lemma ID="l_194" tokenIDs="wc3">10</tc:lemma>
+      <tc:lemma ID="l_195" tokenIDs="wc4">Jahr</tc:lemma>
+      <tc:lemma ID="l_196" tokenIDs="wc5">:</tc:lemma>
+      <tc:lemma ID="l_197" tokenIDs="wc6">d</tc:lemma>
+      <tc:lemma ID="l_198" tokenIDs="wc7">Anzahl</tc:lemma>
+      <tc:lemma ID="l_199" tokenIDs="wc8">d</tc:lemma>
+      <tc:lemma ID="l_200" tokenIDs="wc9">Unterrepräsentanz</tc:lemma>
+      <tc:lemma ID="l_201" tokenIDs="wca">werden</tc:lemma>
+      <tc:lemma ID="l_202" tokenIDs="wcb">von</tc:lemma>
+      <tc:lemma ID="l_203" tokenIDs="wcc">12</tc:lemma>
+      <tc:lemma ID="l_204" tokenIDs="wcd">auf</tc:lemma>
+      <tc:lemma ID="l_205" tokenIDs="wce">6</tc:lemma>
+      <tc:lemma ID="l_206" tokenIDs="wcf">verringern</tc:lemma>
+      <tc:lemma ID="l_207" tokenIDs="wd0">(</tc:lemma>
+      <tc:lemma ID="l_208" tokenIDs="wd1">&lt;unknown&gt;</tc:lemma>
+      <tc:lemma ID="l_209" tokenIDs="wd2">separat</tc:lemma>
+      <tc:lemma ID="l_210" tokenIDs="wd3">Anlage</tc:lemma>
+      <tc:lemma ID="l_211" tokenIDs="wd4">)</tc:lemma>
+      <tc:lemma ID="l_212" tokenIDs="wd5">.</tc:lemma>
+      <tc:lemma ID="l_213" tokenIDs="wd6">Berlin</tc:lemma>
+      <tc:lemma ID="l_214" tokenIDs="wd7">,</tc:lemma>
+      <tc:lemma ID="l_215" tokenIDs="wd8">d</tc:lemma>
+      <tc:lemma ID="l_216" tokenIDs="wd9">29.</tc:lemma>
+      <tc:lemma ID="l_217" tokenIDs="wda">April</tc:lemma>
+      <tc:lemma ID="l_218" tokenIDs="wdb">@card@</tc:lemma>
+      <tc:lemma ID="l_219" tokenIDs="wdc">Cornelia</tc:lemma>
+      <tc:lemma ID="l_220" tokenIDs="wdd">Y</tc:lemma>
+      <tc:lemma ID="l_221" tokenIDs="wde">&lt;unknown&gt;</tc:lemma>
+      <tc:lemma ID="l_222" tokenIDs="wdf">E</tc:lemma>
+      <tc:lemma ID="l_223" tokenIDs="we0">&lt;unknown&gt;</tc:lemma>
+      <tc:lemma ID="l_224" tokenIDs="we1">...</tc:lemma>
+      <tc:lemma ID="l_225" tokenIDs="we2">...</tc:lemma>
+      <tc:lemma ID="l_226" tokenIDs="we3">...</tc:lemma>
+      <tc:lemma ID="l_227" tokenIDs="we4">...</tc:lemma>
+      <tc:lemma ID="l_228" tokenIDs="we5">...</tc:lemma>
+      <tc:lemma ID="l_229" tokenIDs="we6">...</tc:lemma>
+      <tc:lemma ID="l_230" tokenIDs="we7">&lt;unknown&gt;</tc:lemma>
+      <tc:lemma ID="l_231" tokenIDs="we8">Senatorin</tc:lemma>
+      <tc:lemma ID="l_232" tokenIDs="we9">für</tc:lemma>
+      <tc:lemma ID="l_233" tokenIDs="wea">Wirtschaft</tc:lemma>
+      <tc:lemma ID="l_234" tokenIDs="web">,</tc:lemma>
+      <tc:lemma ID="l_235" tokenIDs="wec">Technologie</tc:lemma>
+      <tc:lemma ID="l_236" tokenIDs="wed">und</tc:lemma>
+      <tc:lemma ID="l_237" tokenIDs="wee">Forschung</tc:lemma>
+    </tc:lemmas>
+    <tc:POStags xmlns:tc="http://www.dspin.de/data/textcorpus" tagset="STTS">
+      <tc:tag tokenIDs="w1">NN</tc:tag>
+      <tc:tag tokenIDs="w2">APPR</tc:tag>
+      <tc:tag tokenIDs="w3">NN</tc:tag>
+      <tc:tag tokenIDs="w4">$,</tc:tag>
+      <tc:tag tokenIDs="w5">NN</tc:tag>
+      <tc:tag tokenIDs="w6">KON</tc:tag>
+      <tc:tag tokenIDs="w7">NN</tc:tag>
+      <tc:tag tokenIDs="w8">FM</tc:tag>
+      <tc:tag tokenIDs="w9">FM</tc:tag>
+      <tc:tag tokenIDs="wa">CARD</tc:tag>
+      <tc:tag tokenIDs="wb">ADJA</tc:tag>
+      <tc:tag tokenIDs="wc">NN</tc:tag>
+      <tc:tag tokenIDs="wd">APPR</tc:tag>
+      <tc:tag tokenIDs="we">ART</tc:tag>
+      <tc:tag tokenIDs="wf">NN</tc:tag>
+      <tc:tag tokenIDs="w10">APPR</tc:tag>
+      <tc:tag tokenIDs="w11">NE</tc:tag>
+      <tc:tag tokenIDs="w12">APPR</tc:tag>
+      <tc:tag tokenIDs="w13">NN</tc:tag>
+      <tc:tag tokenIDs="w14">$(</tc:tag>
+      <tc:tag tokenIDs="w15">NN</tc:tag>
+      <tc:tag tokenIDs="w16">NE</tc:tag>
+      <tc:tag tokenIDs="w17">$(</tc:tag>
+      <tc:tag tokenIDs="w18">NE</tc:tag>
+      <tc:tag tokenIDs="w19">VVFIN</tc:tag>
+      <tc:tag tokenIDs="w1a">NN</tc:tag>
+      <tc:tag tokenIDs="w1b">NN</tc:tag>
+      <tc:tag tokenIDs="w1c">ADJA</tc:tag>
+      <tc:tag tokenIDs="w1d">ADJA</tc:tag>
+      <tc:tag tokenIDs="w1e">NN</tc:tag>
+      <tc:tag tokenIDs="w1f">ADJA</tc:tag>
+      <tc:tag tokenIDs="w20">ADJA</tc:tag>
+      <tc:tag tokenIDs="w21">NN</tc:tag>
+      <tc:tag tokenIDs="w22">$(</tc:tag>
+      <tc:tag tokenIDs="w23">APPRART</tc:tag>
+      <tc:tag tokenIDs="w24">NN</tc:tag>
+      <tc:tag tokenIDs="w25">$(</tc:tag>
+      <tc:tag tokenIDs="w26">APPR</tc:tag>
+      <tc:tag tokenIDs="w27">NN</tc:tag>
+      <tc:tag tokenIDs="w28">NN</tc:tag>
+      <tc:tag tokenIDs="w29">ART</tc:tag>
+      <tc:tag tokenIDs="w2a">NN</tc:tag>
+      <tc:tag tokenIDs="w2b">APPRART</tc:tag>
+      <tc:tag tokenIDs="w2c">NN</tc:tag>
+      <tc:tag tokenIDs="w2d">NN</tc:tag>
+      <tc:tag tokenIDs="w2e">NN</tc:tag>
+      <tc:tag tokenIDs="w2f">CARD</tc:tag>
+      <tc:tag tokenIDs="w30">$(</tc:tag>
+      <tc:tag tokenIDs="w31">NN</tc:tag>
+      <tc:tag tokenIDs="w32">$(</tc:tag>
+      <tc:tag tokenIDs="w33">$(</tc:tag>
+      <tc:tag tokenIDs="w34">NN</tc:tag>
+      <tc:tag tokenIDs="w35">$(</tc:tag>
+      <tc:tag tokenIDs="w36">ADJD</tc:tag>
+      <tc:tag tokenIDs="w37">ART</tc:tag>
+      <tc:tag tokenIDs="w38">NN</tc:tag>
+      <tc:tag tokenIDs="w39">APPR</tc:tag>
+      <tc:tag tokenIDs="w3a">NN</tc:tag>
+      <tc:tag tokenIDs="w3b">$,</tc:tag>
+      <tc:tag tokenIDs="w3c">NN</tc:tag>
+      <tc:tag tokenIDs="w3d">KON</tc:tag>
+      <tc:tag tokenIDs="w3e">NN</tc:tag>
+      <tc:tag tokenIDs="w3f">VVFIN</tc:tag>
+      <tc:tag tokenIDs="w40">ADJA</tc:tag>
+      <tc:tag tokenIDs="w41">NN</tc:tag>
+      <tc:tag tokenIDs="w42">ART</tc:tag>
+      <tc:tag tokenIDs="w43">NN</tc:tag>
+      <tc:tag tokenIDs="w44">APPRART</tc:tag>
+      <tc:tag tokenIDs="w45">NN</tc:tag>
+      <tc:tag tokenIDs="w46">PTKVZ</tc:tag>
+      <tc:tag tokenIDs="w47">$.</tc:tag>
+      <tc:tag tokenIDs="w48">ART</tc:tag>
+      <tc:tag tokenIDs="w49">NN</tc:tag>
+      <tc:tag tokenIDs="w4a">VAFIN</tc:tag>
+      <tc:tag tokenIDs="w4b">APPR</tc:tag>
+      <tc:tag tokenIDs="w4c">PPOSAT</tc:tag>
+      <tc:tag tokenIDs="w4d">NN</tc:tag>
+      <tc:tag tokenIDs="w4e">APPRART</tc:tag>
+      <tc:tag tokenIDs="w4f">ADJA</tc:tag>
+      <tc:tag tokenIDs="w50">ADJA</tc:tag>
+      <tc:tag tokenIDs="w51">CARD</tc:tag>
+      <tc:tag tokenIDs="w52">NN</tc:tag>
+      <tc:tag tokenIDs="w53">VVPP</tc:tag>
+      <tc:tag tokenIDs="w54">$.</tc:tag>
+      <tc:tag tokenIDs="w55">PIAT</tc:tag>
+      <tc:tag tokenIDs="w56">NN</tc:tag>
+      <tc:tag tokenIDs="w57">VAFIN</tc:tag>
+      <tc:tag tokenIDs="w58">VVPP</tc:tag>
+      <tc:tag tokenIDs="w59">$,</tc:tag>
+      <tc:tag tokenIDs="w5a">ART</tc:tag>
+      <tc:tag tokenIDs="w5b">ADV</tc:tag>
+      <tc:tag tokenIDs="w5c">ADJA</tc:tag>
+      <tc:tag tokenIDs="w5d">NN</tc:tag>
+      <tc:tag tokenIDs="w5e">VVIZU</tc:tag>
+      <tc:tag tokenIDs="w5f">KON</tc:tag>
+      <tc:tag tokenIDs="w60">VVIZU</tc:tag>
+      <tc:tag tokenIDs="w61">$,</tc:tag>
+      <tc:tag tokenIDs="w62">ADV</tc:tag>
+      <tc:tag tokenIDs="w63">ART</tc:tag>
+      <tc:tag tokenIDs="w64">NN</tc:tag>
+      <tc:tag tokenIDs="w65">ART</tc:tag>
+      <tc:tag tokenIDs="w66">NN</tc:tag>
+      <tc:tag tokenIDs="w67">APPR</tc:tag>
+      <tc:tag tokenIDs="w68">NN</tc:tag>
+      <tc:tag tokenIDs="w69">APPR</tc:tag>
+      <tc:tag tokenIDs="w6a">ART</tc:tag>
+      <tc:tag tokenIDs="w6b">NN</tc:tag>
+      <tc:tag tokenIDs="w6c">CARD</tc:tag>
+      <tc:tag tokenIDs="w6d">VVPP</tc:tag>
+      <tc:tag tokenIDs="w6e">VAFIN</tc:tag>
+      <tc:tag tokenIDs="w6f">$.</tc:tag>
+      <tc:tag tokenIDs="w70">NN</tc:tag>
+      <tc:tag tokenIDs="w71">APPR</tc:tag>
+      <tc:tag tokenIDs="w72">ART</tc:tag>
+      <tc:tag tokenIDs="w73">NN</tc:tag>
+      <tc:tag tokenIDs="w74">VAFIN</tc:tag>
+      <tc:tag tokenIDs="w75">PTKZU</tc:tag>
+      <tc:tag tokenIDs="w76">VVINF</tc:tag>
+      <tc:tag tokenIDs="w77">$.</tc:tag>
+      <tc:tag tokenIDs="w78">PROAV</tc:tag>
+      <tc:tag tokenIDs="w79">VAFIN</tc:tag>
+      <tc:tag tokenIDs="w7a">VVPP</tc:tag>
+      <tc:tag tokenIDs="w7b">$.</tc:tag>
+      <tc:tag tokenIDs="w7c">PPER</tc:tag>
+      <tc:tag tokenIDs="w7d">VAFIN</tc:tag>
+      <tc:tag tokenIDs="w7e">ART</tc:tag>
+      <tc:tag tokenIDs="w7f">ADJA</tc:tag>
+      <tc:tag tokenIDs="w80">NN</tc:tag>
+      <tc:tag tokenIDs="w81">APPR</tc:tag>
+      <tc:tag tokenIDs="w82">ART</tc:tag>
+      <tc:tag tokenIDs="w83">NN</tc:tag>
+      <tc:tag tokenIDs="w84">APPR</tc:tag>
+      <tc:tag tokenIDs="w85">NE</tc:tag>
+      <tc:tag tokenIDs="w86">CARD</tc:tag>
+      <tc:tag tokenIDs="w87">NN</tc:tag>
+      <tc:tag tokenIDs="w88">CARD</tc:tag>
+      <tc:tag tokenIDs="w89">APPR</tc:tag>
+      <tc:tag tokenIDs="w8a">NN</tc:tag>
+      <tc:tag tokenIDs="w8b">APPRART</tc:tag>
+      <tc:tag tokenIDs="w8c">NN</tc:tag>
+      <tc:tag tokenIDs="w8d">VVPP</tc:tag>
+      <tc:tag tokenIDs="w8e">$(</tc:tag>
+      <tc:tag tokenIDs="w8f">ADJA</tc:tag>
+      <tc:tag tokenIDs="w90">NN</tc:tag>
+      <tc:tag tokenIDs="w91">$(</tc:tag>
+      <tc:tag tokenIDs="w92">$.</tc:tag>
+      <tc:tag tokenIDs="w93">ART</tc:tag>
+      <tc:tag tokenIDs="w94">ADJA</tc:tag>
+      <tc:tag tokenIDs="w95">NN</tc:tag>
+      <tc:tag tokenIDs="w96">VAFIN</tc:tag>
+      <tc:tag tokenIDs="w97">APPR</tc:tag>
+      <tc:tag tokenIDs="w98">ART</tc:tag>
+      <tc:tag tokenIDs="w99">ADJA</tc:tag>
+      <tc:tag tokenIDs="w9a">NN</tc:tag>
+      <tc:tag tokenIDs="w9b">VVPP</tc:tag>
+      <tc:tag tokenIDs="w9c">$.</tc:tag>
+      <tc:tag tokenIDs="w9d">ART</tc:tag>
+      <tc:tag tokenIDs="w9e">NN</tc:tag>
+      <tc:tag tokenIDs="w9f">ART</tc:tag>
+      <tc:tag tokenIDs="wa0">ADJA</tc:tag>
+      <tc:tag tokenIDs="wa1">NN</tc:tag>
+      <tc:tag tokenIDs="wa2">APPR</tc:tag>
+      <tc:tag tokenIDs="wa3">NE</tc:tag>
+      <tc:tag tokenIDs="wa4">CARD</tc:tag>
+      <tc:tag tokenIDs="wa5">NN</tc:tag>
+      <tc:tag tokenIDs="wa6">CARD</tc:tag>
+      <tc:tag tokenIDs="wa7">VAFIN</tc:tag>
+      <tc:tag tokenIDs="wa8">ADV</tc:tag>
+      <tc:tag tokenIDs="wa9">ADJD</tc:tag>
+      <tc:tag tokenIDs="waa">ADJD</tc:tag>
+      <tc:tag tokenIDs="wab">APPR</tc:tag>
+      <tc:tag tokenIDs="wac">CARD</tc:tag>
+      <tc:tag tokenIDs="wad">$(</tc:tag>
+      <tc:tag tokenIDs="wae">$.</tc:tag>
+      <tc:tag tokenIDs="waf">ART</tc:tag>
+      <tc:tag tokenIDs="wb0">NN</tc:tag>
+      <tc:tag tokenIDs="wb1">APPR</tc:tag>
+      <tc:tag tokenIDs="wb2">ART</tc:tag>
+      <tc:tag tokenIDs="wb3">NN</tc:tag>
+      <tc:tag tokenIDs="wb4">VAFIN</tc:tag>
+      <tc:tag tokenIDs="wb5">APPR</tc:tag>
+      <tc:tag tokenIDs="wb6">ART</tc:tag>
+      <tc:tag tokenIDs="wb7">NN</tc:tag>
+      <tc:tag tokenIDs="wb8">CARD</tc:tag>
+      <tc:tag tokenIDs="wb9">KON</tc:tag>
+      <tc:tag tokenIDs="wba">CARD</tc:tag>
+      <tc:tag tokenIDs="wbb">VVPP</tc:tag>
+      <tc:tag tokenIDs="wbc">$.</tc:tag>
+      <tc:tag tokenIDs="wbd">ADJD</tc:tag>
+      <tc:tag tokenIDs="wbe">VAFIN</tc:tag>
+      <tc:tag tokenIDs="wbf">ART</tc:tag>
+      <tc:tag tokenIDs="wc0">NN</tc:tag>
+      <tc:tag tokenIDs="wc1">ART</tc:tag>
+      <tc:tag tokenIDs="wc2">ADJA</tc:tag>
+      <tc:tag tokenIDs="wc3">CARD</tc:tag>
+      <tc:tag tokenIDs="wc4">NN</tc:tag>
+      <tc:tag tokenIDs="wc5">$.</tc:tag>
+      <tc:tag tokenIDs="wc6">ART</tc:tag>
+      <tc:tag tokenIDs="wc7">NN</tc:tag>
+      <tc:tag tokenIDs="wc8">ART</tc:tag>
+      <tc:tag tokenIDs="wc9">NN</tc:tag>
+      <tc:tag tokenIDs="wca">VAFIN</tc:tag>
+      <tc:tag tokenIDs="wcb">APPR</tc:tag>
+      <tc:tag tokenIDs="wcc">CARD</tc:tag>
+      <tc:tag tokenIDs="wcd">APPR</tc:tag>
+      <tc:tag tokenIDs="wce">CARD</tc:tag>
+      <tc:tag tokenIDs="wcf">VVPP</tc:tag>
+      <tc:tag tokenIDs="wd0">$(</tc:tag>
+      <tc:tag tokenIDs="wd1">ADJD</tc:tag>
+      <tc:tag tokenIDs="wd2">ADJA</tc:tag>
+      <tc:tag tokenIDs="wd3">NN</tc:tag>
+      <tc:tag tokenIDs="wd4">$(</tc:tag>
+      <tc:tag tokenIDs="wd5">$.</tc:tag>
+      <tc:tag tokenIDs="wd6">NE</tc:tag>
+      <tc:tag tokenIDs="wd7">$,</tc:tag>
+      <tc:tag tokenIDs="wd8">ART</tc:tag>
+      <tc:tag tokenIDs="wd9">ADJA</tc:tag>
+      <tc:tag tokenIDs="wda">NN</tc:tag>
+      <tc:tag tokenIDs="wdb">CARD</tc:tag>
+      <tc:tag tokenIDs="wdc">NE</tc:tag>
+      <tc:tag tokenIDs="wdd">NN</tc:tag>
+      <tc:tag tokenIDs="wde">ADJA</tc:tag>
+      <tc:tag tokenIDs="wdf">NN</tc:tag>
+      <tc:tag tokenIDs="we0">VVFIN</tc:tag>
+      <tc:tag tokenIDs="we1">$.</tc:tag>
+      <tc:tag tokenIDs="we2">$.</tc:tag>
+      <tc:tag tokenIDs="we3">$.</tc:tag>
+      <tc:tag tokenIDs="we4">$.</tc:tag>
+      <tc:tag tokenIDs="we5">$.</tc:tag>
+      <tc:tag tokenIDs="we6">$.</tc:tag>
+      <tc:tag tokenIDs="we7">ADJA</tc:tag>
+      <tc:tag tokenIDs="we8">NN</tc:tag>
+      <tc:tag tokenIDs="we9">APPR</tc:tag>
+      <tc:tag tokenIDs="wea">NN</tc:tag>
+      <tc:tag tokenIDs="web">$,</tc:tag>
+      <tc:tag tokenIDs="wec">NN</tc:tag>
+      <tc:tag tokenIDs="wed">KON</tc:tag>
+      <tc:tag tokenIDs="wee">NN</tc:tag>
+    </tc:POStags>
+  </TextCorpus>
+</D-Spin>
