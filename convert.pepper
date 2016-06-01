@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<pepper-job id="rkt8l2ke" version="1.0">
+	<importer name="TreetaggerImporter" path="./Berliner_Parlamentsprotokolle/">
+	</importer>
+	<exporter name="ANNISExporter" path="./annis/">
+	</exporter>
+</pepper-job>
