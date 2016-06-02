@@ -1,5 +1,5 @@
 rm clean/*
-rm Berliner_Parlamentsprotokolle/*
+rm Berliner_Parlamentsprotokolle/*.tt
 ./0_create_repl_lists.sh
 python 1_clean_text.py
 ./2_tag.sh
