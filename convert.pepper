@@ -4,6 +4,6 @@
 	  <property key="pepper.before.readMeta">meta</property>
 	</importer>
 	<exporter name="ANNISExporter" path="./annis/">
-	  <property key="corpusName">Berliner_Parlamentsprotokolle_v0.2</property>
+	  <property key="corpusName">BerlinerSenatstexte_0.2</property>
 	</exporter>
 </pepper-job>

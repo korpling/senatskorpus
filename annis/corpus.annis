@@ -9,8 +9,8 @@
 6	vzk_nebentatigkeit_nussbaumbwbdruckstuck	DOCUMENT	NULL	17	18	FALSE
 7	neuauflage_des_kmu-fonds_bei_der_investitionsbank_in_der_foerderperiode2014-20	DOCUMENT	NULL	19	20	FALSE
 8	vzk_zinsvo_bwb_f__r_2014	DOCUMENT	NULL	21	22	FALSE
-11	02_anlage_1_frauenf__rderplan_2013_bis_2019	DOCUMENT	NULL	23	24	FALSE
-9	vzk-zulassungnebentaetigkeitsengeiselar-bsr	DOCUMENT	NULL	25	26	FALSE
-10	02_endf-vzk_ibb_vr_2014	DOCUMENT	NULL	27	28	FALSE
+9	02_anlage_1_frauenf__rderplan_2013_bis_2019	DOCUMENT	NULL	23	24	FALSE
+10	vzk-zulassungnebentaetigkeitsengeiselar-bsr	DOCUMENT	NULL	25	26	FALSE
+11	02_endf-vzk_ibb_vr_2014	DOCUMENT	NULL	27	28	FALSE
 12	verordnung_ber_die_angemessene_verzinsung_des_betriebsnotwendigen_kapitals_der_berliner_stadtreinigungsbetriebe_bsr_f_r_das_jahr_2016	DOCUMENT	NULL	29	30	FALSE
-15	Berliner_Parlamentsprotokolle_v0.2	CORPUS	NULL	0	31	TRUE
+15	BerlinerSenatstexte_0.2	CORPUS	NULL	0	31	TRUE
